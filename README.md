@@ -1,5 +1,7 @@
 # uberduck-discord-example
 
+A Discord bot that uses the [Uberduck API](https://uberduck.readme.io/) for text-to-speech in voice channels. See the [Uberduck blog](https://uberduck.ai/blog/build-a-text-to-speech-discord-bot-in-python) for a full tutorial on building this bot.
+
 ## Install dependencies
 
 1. Install [ffmpeg](https://ffmpeg.org/download.html) if not already installed.
