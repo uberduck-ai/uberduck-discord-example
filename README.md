@@ -23,5 +23,5 @@ code.
 Then you can run the bot via:
 
 ```
-pyton -m uberduck_discord_example
+python -m uberduck_discord_example
 ```
